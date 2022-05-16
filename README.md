@@ -13,3 +13,9 @@
 9. Gestion des conflits
 10. Le reflog
 11. Discussion
+
+
+## Ajout de la configuration de git:
+```bash
+    git config --local include.path "../.gitconfig"
+```
