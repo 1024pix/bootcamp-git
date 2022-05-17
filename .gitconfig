@@ -25,3 +25,4 @@
     rdev = rebase origin/dev
     amend = commit --amend --no-edit
     fixup = commit --fixup
+    please = push --force-with-lease
