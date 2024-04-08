@@ -1,0 +1,11 @@
+{
+  "name": "bootcamp-pix-site",
+  "version": "1.0.0",
+  "description": "Site vitrine du bootcamp !",
+  "scripts": {
+    "start": "parcel src/index.html"
+  },
+  "devDependencies": {
+    "parcel": "^2.5.0"
+  }
+}
