@@ -126,10 +126,8 @@ Alors si je souhaite mettre à jour `branche1` et `branche2` avec la dernière v
 $ git rebase dev
 Successfully rebased and updated refs/heads/branche2.
 Updated the following refs with --update-refs:
-
+```
 
 ## Ressources
 
-- http://ndpsoftware.com/git-cheatsheet.html#loc=workspace;
-	refs/heads/branche1
-```
+- http://ndpsoftware.com/git-cheatsheet.html
